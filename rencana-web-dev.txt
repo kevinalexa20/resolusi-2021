@@ -1,0 +1,5 @@
+rencana dalam web development
+
+ - bikin web gps
+  *tanpa wordpress
+  *front end & backend
